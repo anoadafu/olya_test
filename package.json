@@ -1,0 +1,22 @@
+{
+  "name": "new_poject",
+  "version": "1.0.0",
+  "description": "Marketplace",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anoadafu/olya_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anoadafu/olya_test/issues"
+  },
+  "homepage": "https://github.com/anoadafu/olya_test#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
