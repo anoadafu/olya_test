@@ -1,6 +1,6 @@
 # olya_test
 
-Olya ferst thing is to run:
+Olya first thing to do is run:
 ```
 npm install
 ```
